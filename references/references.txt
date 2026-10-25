@@ -1,0 +1,24 @@
+# References and Supporting Materials
+
+1. IABAC Certified Data Scientist Project Guidelines  
+   Source: https://iabac.org/certified-data-scientist
+
+2. IBM HR Analytics Employee Attrition & Performance Dataset  
+   Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+3. McKinsey & Company (2023). "The Great Attrition is Making Hiring Harder. Are You Searching the Right Talent Pools?"  
+   Source: https://www.mckinsey.com
+
+4. SHAP: Explainable AI Framework  
+   Source: https://github.com/slundberg/shap
+
+5. Scikit-learn Documentation  
+   Source: https://scikit-learn.org/stable/
+
+6. Seaborn Visualization Library  
+   Source: https://seaborn.pydata.org/
+
+7. Job Satisfaction and Employee Engagement Research  
+   Source: Harvard Business Review, Gallup Workplace Studies
+
+8. This  contains my complete Employee Performance Analysis project for the Certified Data Scientist credential. All notebooks are validated and aligned with IABAC guidelines. GitHub repo :- https://github.com/Swayam1515/employee-performance-analysis

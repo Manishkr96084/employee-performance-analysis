@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+joblib
+nbformat
+nbclient
+ipykernel
+streamlit
+plotly

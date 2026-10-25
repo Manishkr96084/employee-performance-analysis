@@ -1,0 +1,8 @@
+This project analyzes employee satisfaction and performance data to help HR teams identify 
+disengaged employees and improve hiring decisions.
+Using a Random Forest model trained on 25+ features, 
+it predicts low satisfaction with 72% accuracy and flags high-risk cases. 
+Key insights include department-wise trends and
+top drivers like OverTime and EnvironmentSatisfaction. 
+The project is structured into modular notebooks and
+meets all IABAC certification requirements.
